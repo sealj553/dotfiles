@@ -87,5 +87,3 @@ cd(){
         ls --color=auto
     fi
 }
-
-source ~/.zsh_aliases
